@@ -1,0 +1,6 @@
+input:valid, textarea:valid {
+    background: white;
+  }
+input:invalid, textarea:invalid {
+    background: #D31F6B;
+  }
